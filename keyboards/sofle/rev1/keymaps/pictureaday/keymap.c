@@ -20,6 +20,7 @@
 
 #include QMK_KEYBOARD_H
 #include "oled.c"
+#include "rgb_matrix.c"
 
 // #undef DYNAMIC_KEYMAP_LAYER_COUNT
 // #define DYNAMIC_KEYMAP_LAYER_COUNT 5
