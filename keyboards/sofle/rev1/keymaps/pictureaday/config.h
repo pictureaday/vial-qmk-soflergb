@@ -26,3 +26,11 @@
 // The four corners
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 5, 3, 8 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 0, 0, 0 }
+
+
+#ifdef RGB_MATRIX_ENABLE
+
+// #define ENABLE_RGB_MATRIX_BAND_PINWHEEL_VAL
+#define ENABLE_RGB_MATRIX_JELLYBEAN_RAINDROPS
+
+#endif
